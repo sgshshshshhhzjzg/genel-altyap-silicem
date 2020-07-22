@@ -8,8 +8,8 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [
-        "-yardım | Komudu ile bütün komutları görebilirsiniz. | Creative Developers 🔥",
-        "-destek | Destek Sunucumuza Gelebilirsiniz | Creative Developers 🔥",
+        "FYNX",
+        "",
         "YouTube Lord Creative | Creative Developers 🔥",
     ];
 
